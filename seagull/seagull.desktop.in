@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Seagull
+_Comment=Internet Media Catalogue
+Categories=GNOME;Internet;
+Exec=seagull
+Icon=seagull
+Terminal=false
+Type=Application

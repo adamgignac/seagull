@@ -1,0 +1,22 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      id="the-gallery">
+
+<info>
+  <!-- edit xref to re-locate this topic in the help hierarchy -->
+  <link type="guide" xref="index#contents"/>
+  <credit type="author">
+    <name>Adam Gignac</name>
+    <email>gignac.adam@gmail.com</email>
+    <years>2012</years>
+  </credit>
+  <desc>Details about the media gallery</desc>
+</info>
+
+<title>The Gallery</title>
+<p>Any pictures or videos you've added to Seagull will be tiled in the main window.</p>
+<p>Clicking on the picture or video will open it for viewing.</p>
+<p>In the bottom right corner of the item, you will see a small button labelled "X". Clicking on this will remove the item from your gallery.</p>
+<p>If the item is from a web source and not a local file, you will also see an "S" button next to the "X". Clicking on this will allow you to share a link to the item through Gwibber.</p>
+
+</page>

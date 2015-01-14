@@ -1,0 +1,98 @@
+seagull (13.04.1-public3) raring; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Thu, 16 May 2013 10:39:41 -0400
+
+seagull (13.04.1-public2) raring; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Mon, 29 Apr 2013 15:08:47 -0400
+
+seagull (13.04.1-public1) raring; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Sun, 28 Apr 2013 17:31:51 -0400
+
+seagull (13.04.1) quantal; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Wed, 24 Apr 2013 01:44:03 -0400
+
+seagull (13.04ubuntu1) UNRELEASED; urgency=low
+
+  * Automatically scroll to newly added image
+  * Pre-upgrade checkpoint
+  * Minor tweak: make empty frame high enough that video badges fit in
+  * Update help files
+  * Error check properly in VimeoFrame and SeagullWindow
+  * Add 'add' menu item
+  * Added Vimeo support
+  * Bump version number
+  * Add logging
+  * Make broken link frame smaller
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Tue, 23 Apr 2013 15:32:25 -0400
+
+seagull (13.04) quantal; urgency=low
+
+  * Finally completed scrolling background
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Tue, 23 Apr 2013 15:32:24 -0400
+
+seagull (1.0-public8) quantal; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Tue, 12 Mar 2013 01:37:35 -0400
+
+seagull (1.0-public7) quantal; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Sun, 10 Mar 2013 03:24:24 -0400
+
+seagull (1.0-public5) quantal; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Fri, 21 Dec 2012 00:41:29 -0500
+
+seagull (1.0-public4) quantal; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Fri, 26 Oct 2012 14:08:21 -0400
+
+seagull (1.0-public3) precise; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Thu, 23 Aug 2012 20:54:20 -0400
+
+seagull (1.0-public2) precise; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Wed, 22 Aug 2012 21:40:17 -0400
+
+seagull (0.1-public3) precise; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Tue, 21 Aug 2012 00:17:30 -0400
+
+seagull (0.1-public2) precise; urgency=low
+
+  * New release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Tue, 21 Aug 2012 00:10:43 -0400
+
+seagull (0.1-public1) precise; urgency=low
+
+  * Initial release.
+
+ -- Adam Gignac <gignac.adam@gmail.com>  Tue, 21 Aug 2012 00:10:14 -0400

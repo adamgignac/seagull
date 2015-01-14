@@ -1,0 +1,25 @@
+Source: seagull
+Section: python
+Priority: extra
+Build-Depends: debhelper (>= 8),
+ python (>= 2.6.6-3~),
+ python-distutils-extra (>= 2.10)
+Maintainer: Adam Gignac <gignac.adam@gmail.com>
+Standards-Version: 3.9.3
+X-Python-Version: >= 2.6
+
+Package: seagull
+Architecture: all
+Depends: ${misc:Depends},
+ ${python:Depends},
+ gir1.2-gtk-3.0,
+ gir1.2-goocanvas-2.0-9,
+ python-quickly-common,
+ gir1.2-webkit-3.0,
+ gir1.2-glib-2.0,
+ gir1.2-gdkpixbuf-2.0,
+ gir1.2-gwibber-gtk-0.3,
+ python-gdata,
+ yelp
+Description: Internet Media Catalogue
+ Save your favorite pictures and videos in one place for easy reference

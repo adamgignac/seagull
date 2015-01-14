@@ -1,0 +1,10 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: seagull
+Upstream-Contact: Adam Gignac <gignac.adam@gmail.com>
+Source: https://launchpad.net/seagull
+
+Files: *
+Copyright: (C) 2012 Adam Gignac <gignac.adam@gmail.com>
+Copyright: (C) for c in rows[0]] if len(rows)>0 else [str] #Usage-specific hack
+Copyright: (C) The Regents of the University of California.
+License: BSD

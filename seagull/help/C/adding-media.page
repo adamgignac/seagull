@@ -1,0 +1,21 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      id="adding-media">
+
+<info>
+  <!-- edit xref to re-locate this topic in the help hierarchy -->
+  <link type="guide" xref="index#contents"/>
+  <credit type="author">
+    <name>Adam Gignac</name>
+    <email>gignac.adam@gmail.com</email>
+    <years>2012</years>
+  </credit>
+  <desc>How to add pictures or video to Seagull</desc>
+</info>
+
+<title>Adding Media</title>
+<p>You can drag pictures and Youtube/Vimeo videos from your web browser and drop them in the Seagull window to add them to your gallery. You can also drag local image files from your file browser to the window, though you will be unable to share them through Gwibber.</p>
+<note style="important"><p>Be sure you're dragging the actual picture or a direct link!</p></note>
+<p>You can also add an item by pressing Ctrl+A or clicking on the "Add" item in the application menu and entering the URL of the item in the dialog box that appears.</p>
+
+</page>
